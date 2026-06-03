@@ -1,2 +1,3 @@
 "*.zip" 
 "powerpredict_model.pkl" 
+*.csv
